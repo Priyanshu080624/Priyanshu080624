@@ -1,10 +1,18 @@
--Hello myself Priyanshu kulhari 😄  
--Currently pursuing B.Tech 💻  
--Specialized in java 😺
--Always keen to learn new things 🤓
+# 💫 About Me:
+# Hi there 👋, I'm Priyanshu Kulhari<br><br>**Electronics & Computer Engineering Undergrad @ VIT Chennai | Software & IoT Enthusiast**<br><br>I am a builder who loves bridging the gap between hardware and software. Whether it's designing embedded systems, analyzing algorithms in C++, or building real-time backend APIs, I enjoy tackling complex engineering problems. <br><br>### 🚀 What I'm Up To<br>- 🔭 **Currently building:** Real-time data pipelines (like the **FleetQ Telematics Engine**) and IoT sensor networks.<br>- 🎓 **Education:** Pursuing a B.Tech in Electronics and Computer Engineering at Vellore Institute of Technology.<br>- 🤝 **Leadership:** Proudly serving as the Chairperson for the IEEE Microwave Theory and Technology (MTT) Society student chapter.<br>- ⚡ **Fun fact:** When I am not debugging Node.js servers or wiring up an ESP32, I spend my free time learning Spanish (¡Hola!).<br><br>### 🛠️ Tech Stack & Tools<br>* **Languages:** C++, JavaScript, MATLAB<br>* **Backend:** Node.js, Express, REST APIs<br>* **Hardware & IoT:** ESP32, Arduino, FPGA, Signal Processing<br>* **Concepts:** Data Structures & Algorithms, Analog/Digital Circuit Design<br>
 
 
-<!---
-Priyanshu080624/Priyanshu080624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/priyanskulhari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu99586) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kulhari-34b088320) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32992590/priyanshu-kulhari) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pkulhari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu080624@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=priyanshu080624&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=priyanshu080624&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshu080624&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=priyanshu080624&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
