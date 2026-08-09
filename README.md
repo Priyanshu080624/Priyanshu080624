@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋, I'm Priyanshu Kulhari<br><br>**Electronics & Computer Engineering Undergrad @ VIT Chennai | Software & IoT Enthusiast**<br><br>I am a builder who loves bridging the gap between hardware and software. Whether it's designing embedded systems, analyzing algorithms in C++, or building real-time backend APIs, I enjoy tackling complex engineering problems. 
+### Hi there 👋, I'm Priyanshu Kulhari<br><br>**Electronics & Computer Engineering Undergrad @ VIT Chennai | Software & IoT Enthusiast**<br><br>I am a builder who loves bridging the gap between hardware and software. Whether it's designing embedded systems,Dsa, analyzing algorithms in C++, or building real-time backend APIs, I enjoy tackling complex engineering problems. 
 
 
 ## 🌐 Socials:
